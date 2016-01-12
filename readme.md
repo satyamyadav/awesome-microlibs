@@ -1,15 +1,13 @@
 # Awesome Micro Libs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for creating apps with [Electron](http://electron.atom.io)
+> A curated list of small, focused Node.js modules.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
 
 ## Articles
 
-- [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
-- [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
-- [Codesigning your app for OS X](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
+- [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 
 ## Modules
 
