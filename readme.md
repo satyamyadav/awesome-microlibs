@@ -9,6 +9,7 @@
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
+* [Module best practices](https://github.com/mattdesl/module-best-practices)
 
 ## Modules
 
