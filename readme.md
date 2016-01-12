@@ -19,6 +19,8 @@
 
 ### Object
 
+* [map-obj](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
+
 ### Function
 
 
