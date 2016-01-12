@@ -37,6 +37,10 @@
 * [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever
 
+### Stream
+
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
