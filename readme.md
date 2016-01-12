@@ -7,7 +7,8 @@
 
 ## Articles
 
-- [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
+* [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
+* [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
 
 ## Modules
 
