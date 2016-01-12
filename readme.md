@@ -13,6 +13,8 @@
 
 ### Array
 
+* [is-sorted](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
+
 ### String
 
 ### Date & Time
