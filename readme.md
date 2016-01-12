@@ -25,20 +25,20 @@
 
 * [map-obj](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
-* [object-values](https://github.com/sindresorhus/object-values) - Get the values of an object
+* [object-values](https://github.com/sindresorhus/object-values) - Get the values of an object.
 * [object-pairs](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
 * [zipmap](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
-* [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness
+* [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
 * [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
-* [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign()
+* [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
 
 ### Function
 
-* [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`
-* [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever
+* [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x)).
+* [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 
 ### Stream
-
+* [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 
 
 ## Contribute
