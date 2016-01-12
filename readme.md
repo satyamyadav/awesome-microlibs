@@ -30,6 +30,7 @@
 * [zipmap](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 * [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness
 * [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
+* [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign()
 
 ### Function
 
