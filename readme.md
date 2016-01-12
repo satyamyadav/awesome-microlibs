@@ -24,6 +24,7 @@
 * [object-values](https://github.com/sindresorhus/object-values) - Get the values of an object
 * [object-pairs](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
 * [zipmap](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
+* [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness
 
 ### Function
 
