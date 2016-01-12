@@ -22,6 +22,7 @@
 * [map-obj](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
 * [object-values](https://github.com/sindresorhus/object-values) - Get the values of an object
+* [object-pairs](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
 
 ### Function
 
