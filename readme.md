@@ -24,7 +24,7 @@
 
 ### Function
 
-
+* [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`
 
 
 ## Contribute
