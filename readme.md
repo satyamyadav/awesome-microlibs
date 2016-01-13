@@ -18,6 +18,7 @@
 * [is-sorted](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
 * [array-first](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array.
 * [array-last](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
+* [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays. 
 
 ### String
 
