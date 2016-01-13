@@ -65,7 +65,8 @@
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf)
+* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
+* [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 
 
 ## Contribute
