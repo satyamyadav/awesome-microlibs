@@ -62,6 +62,12 @@
 * [stream-spigot](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 
+
+### File System
+
+* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
