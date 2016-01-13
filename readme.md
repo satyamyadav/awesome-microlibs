@@ -22,6 +22,17 @@
 ### String
 
 * [decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
+* [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
+* [to-capital-case](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
+* [to-constant-case](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
+* [to-dot-case](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
+* [to-no-case](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
+* [to-pascal-case](https://github.com/ianstormtaylor/to-pascal-case) - Convert a string to a pascal case.
+* [to-sentence-case](https://github.com/ianstormtaylor/to-sentence-case) - Convert a string to a sentence case.
+* [to-slug-case](https://github.com/ianstormtaylor/to-slug-case) - Convert a string to a slug case.
+* [to-snake-case](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
+* [to-space-case](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
+* [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 
 ### Date & Time
 
