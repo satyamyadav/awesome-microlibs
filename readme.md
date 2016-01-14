@@ -61,6 +61,7 @@
 * [through2-map](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
+* [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 
 
 ### File System
