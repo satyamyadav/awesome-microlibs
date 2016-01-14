@@ -49,6 +49,9 @@
 * [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
 * [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
+* [set-value](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.  
+* [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
+* [has-value](https://www.npmjs.com/package/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.  
 
 ### Function
 
