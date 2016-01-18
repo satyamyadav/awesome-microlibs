@@ -71,7 +71,7 @@
 
 ### Promise
 
-
+* [thenify](https://github.com/thenables/thenify) - Promisify a callback-based function.
 
 ### File System
 
