@@ -20,6 +20,7 @@
 * [array-last](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays. 
 * [dedupe](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
+* [array-range](https://github.com/mattdesl/array-range) - Creates a new array with given range.
 
 ### String
 
