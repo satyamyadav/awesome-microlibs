@@ -82,6 +82,9 @@
 
 * [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 
+### Other
+
+* [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 
 ## Contribute
 
