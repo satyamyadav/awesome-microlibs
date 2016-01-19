@@ -60,6 +60,7 @@
 
 * [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x)).
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever.
+* [once](https://github.com/isaacs/once) - Run a function exactly one time.
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
