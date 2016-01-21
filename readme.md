@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 
 ## Articles
@@ -90,6 +90,16 @@
 
 * [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+
+
+## Related lists
+
+This section contains awesome lists that you may find useful if you use or write small NPM modules.
+
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
+
+
 
 ## Contribute
 
