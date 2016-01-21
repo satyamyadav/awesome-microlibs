@@ -86,6 +86,12 @@
 
 * [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 
+### Semver
+
+* [semver](https://www.npmjs.com/package/semver) - The semantic version parser used by npm.
+* [semver-max](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
+
+
 ### Other
 
 * [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
