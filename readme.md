@@ -82,7 +82,7 @@
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 * [du] (https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 
-### DOM
+### Browser
 
 * [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 
