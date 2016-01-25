@@ -85,6 +85,7 @@
 ### Browser
 
 * [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation.
+* [insert-css](https://github.com/substack/insert-css) - Insert a string of css into the <head>
 
 ### Semver
 
